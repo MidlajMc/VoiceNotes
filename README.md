@@ -123,10 +123,7 @@ Add the following key to `Info.plist`:
 ## Steps
 
 1. Clone the repository
-
-```bash
-git clone <repository-url>
-```
+https://github.com/MidlajMc/VoiceNotes.git
 
 2. Open the project in Xcode
 
